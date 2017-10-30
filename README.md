@@ -31,7 +31,7 @@ Bu liste **Python Türkiye** grubunda başlatılan `Python İçin Yazılı ve G�
 ## Görsel Kaynaklar
 - https://www.youtube.com/user/gryyldrm (py2)
 - https://www.youtube.com/channel/UC9ssnH3bE5uuZgXvESj5kUg
-- https://www.youtube.com/playlist… (Django (ingilizce))
+- https://www.youtube.com/playlist?list=PLxxA5z-8B2xk4szCgFmgonNcCboyNneMD (Django (ingilizce))
 - https://www.youtube.com/channel/UC9ssnH3bE5uuZgXvESj5kUg (Python Ankara)
 
 ## İngilizce Kaynaklar
@@ -39,10 +39,10 @@ Bu liste **Python Türkiye** grubunda başlatılan `Python İçin Yazılı ve G�
 - https://www.quora.com/How-should-I-start-learning-Python-1
 - http://zetcode.com/ (PyQT5)
 - https://www.youtube.com/channel/UCea5cMUa9xNU0kUtbRcTkqA (DrapsTV)
-- http://interactivepython.org/coursel…/…/thinkcspy/index.html (Temelden)
-- https://www.youtube.com/playlist…
+- http://interactivepython.org/courselib/static/thinkcspy/index.html (Temelden)
+- https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
 - https://www.python.org/doc/ # Ana Kaynak
-- https://docs.quantifiedcode.com/python-anti-pa…/…/index.html
+- https://docs.quantifiedcode.com/python-anti-patterns/correctness/index.html
 
 ## Kitap Önerileri
 - **Python (Mustafa Beşer):** Özellikle PyQT konuları için sağlam bir kaynak. Desinger anlatımı mevcut ama az.
