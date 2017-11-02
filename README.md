@@ -52,11 +52,11 @@ Bu liste **Python Türkiye** grubunda başlatılan `Python İçin Yazılı ve G�
 - **Yeni Başlayanlar İçin Python (Ahmet Aksoy):** Grup üyemiz tarafından yazılmış.
 
 ## Çalışma Siteleri
-- [CodeWars](http://codewars.com)
-- [CodeForces](http://codeforces.com)
-- [CodingGame](https://www.codingame.com)
-- [Hackerrank](http://hackerrank.com)
-- [Codecademy](http://codeacademy.com)
+- [Codewars](http://codewars.com): **Codewars** sitesi daha iyi kod yazabilmek için sorularla alıştırma yapabileceğiniz bir sitedir.
+- [CodeForces](http://codeforces.com): **Codeforces** sitesi programlama yarışmalarının düzenlendiği bir sitedir.
+- [CodinGame](https://www.codingame.com): **CodinGame** sitesi daha iyi kod yazabilmek için oyun programlama ve programlama yarışmaları yapan bir sitedir.
+- [HackerRank](http://hackerrank.com): **HackerRank** sitesinin asıl hedefi geliştiricileri iyi tanıyarak (çeşitli programlama soruları vb. şeylerle), doğru işverenlerle doğru pozisyonlarda iş bulma olanağı sağlayan bir platform olmaktır.
+- [Codecademy](http://codeacademy.com): **Codecademy** sitesi size çevrimiçi bir öğrenme platformu sağlayarak, deneyerek öğretmeye çalışan ve yine çevrimiçi olarak yaptıklarınızı kontrol eder.
 
 ## Forumlar
 - http://python.gen.tr
