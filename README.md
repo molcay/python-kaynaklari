@@ -35,14 +35,14 @@ Bu liste **Python Türkiye** grubunda başlatılan `Python İçin Yazılı ve G�
 - https://www.youtube.com/channel/UC9ssnH3bE5uuZgXvESj5kUg (Python Ankara)
 
 ## İngilizce Kaynaklar
-- https://www.tutorialspoint.com/python/ (Her Türlü Konuda Kaynak Sömürün!)
-- https://www.quora.com/How-should-I-start-learning-Python-1
-- http://zetcode.com/ (PyQT5)
-- https://www.youtube.com/channel/UCea5cMUa9xNU0kUtbRcTkqA (DrapsTV)
-- http://interactivepython.org/courselib/static/thinkcspy/index.html (Temelden)
-- https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
-- https://www.python.org/doc/ # Ana Kaynak
-- https://docs.quantifiedcode.com/python-anti-patterns/correctness/index.html
+- [Official Documentation](https://www.python.org/doc/): **Python Software Foundation** tarafından yayınlanan *Resmi Belgeleme*dir.
+- [Python Tutorial](https://www.tutorialspoint.com/python/): **Tutorials Point** sitesindeki *Python* eğitimidir. **Tutorials Point** sitesi zengin bir eğitim içeriğine sahiptir.
+- [How should I start learning Python?](https://www.quora.com/How-should-I-start-learning-Python-1): **Quora** sitesindeki `Neden Python öğrenmeye başlamalıyım?` sorusuna verilen yanıtların olduğu sayfadır.
+- [ZetCode](http://zetcode.com/): **ZetCode** sitesi farklı programlama dilleri, kullanıcı arayüzleri(GUI), veritabanları gibi konularda birçok eğitim içeriğine sahiptir. [*PyQT5*, *Tkinter*, *wxPython* vb.]
+- [Draps TV](https://www.youtube.com/channel/UCea5cMUa9xNU0kUtbRcTkqA): *DrapsTV* **Youtube** Kanalı
+- [How to think like a Computer Scientist, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html): `Bir Bilgisayar Bilimcisi gibi nasıl düşünülür` isimli kitabın *Interaktif Sürümü*dür.
+- [Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_): *thenewboston* **Youtube** Kanalının yayınladığı `Python 3.4 Programlama Eğitimi` isimli oynatma listesi.
+- [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html): **QuantifiedCode** tarafından yayınlanan *Python*'da `anti-pattern` ve `worst practices` gibi başlıkların irdelendiği bir çevrimiçi kitap.
 
 ## Kitap Önerileri
 - **Python (Mustafa Beşer):** Özellikle PyQT konuları için sağlam bir kaynak. Desinger anlatımı mevcut ama az.
@@ -52,11 +52,11 @@ Bu liste **Python Türkiye** grubunda başlatılan `Python İçin Yazılı ve G�
 - **Yeni Başlayanlar İçin Python (Ahmet Aksoy):** Grup üyemiz tarafından yazılmış.
 
 ## Çalışma Siteleri
-- http://codewars.com
-- http://codeforces.com
-- https://www.codingame.com
-- http://hackerrank.com
-- http://codeacademy.com
+- [CodeWars](http://codewars.com)
+- [CodeForces](http://codeforces.com)
+- [CodingGame](https://www.codingame.com)
+- [Hackerrank](http://hackerrank.com)
+- [Codecademy](http://codeacademy.com)
 
 ## Forumlar
 - http://python.gen.tr
