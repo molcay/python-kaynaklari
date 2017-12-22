@@ -15,7 +15,7 @@ Bu liste **Python Türkiye** grubunda başlatılan `Python İçin Yazılı ve G�
 ---
 
 ## Yazılı Kaynaklar
-- http://www.coogger.com/topic/yazilim
+- http://www.coogger.com
 - http://yazbel.com
 - http://metehan.us (PyQT)
 - http://www.pythondersleri.com (Django, 2x, PyQT, PyGame)
