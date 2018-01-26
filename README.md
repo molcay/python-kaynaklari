@@ -36,6 +36,7 @@ Bu liste **Python Türkiye** grubunda başlatılan `Python İçin Yazılı ve G�
 
 ## İngilizce Kaynaklar
 - [Official Documentation](https://www.python.org/doc/): **Python Software Foundation** tarafından yayınlanan *Resmi Belgeleme*dir.
+- [Automate The Boring Stuff](http://automatetheboringstuff.com/)
 - [Python Tutorial](https://www.tutorialspoint.com/python/): **Tutorials Point** sitesindeki *Python* eğitimidir. **Tutorials Point** sitesi zengin bir eğitim içeriğine sahiptir.
 - [How should I start learning Python?](https://www.quora.com/How-should-I-start-learning-Python-1): **Quora** sitesindeki `Neden Python öğrenmeye başlamalıyım?` sorusuna verilen yanıtların olduğu sayfadır.
 - [ZetCode](http://zetcode.com/): **ZetCode** sitesi farklı programlama dilleri, kullanıcı arayüzleri(GUI), veritabanları gibi konularda birçok eğitim içeriğine sahiptir. [*PyQT5*, *Tkinter*, *wxPython* vb.]
