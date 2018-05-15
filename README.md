@@ -44,6 +44,7 @@ Bu liste **Python Türkiye** grubunda başlatılan `Python İçin Yazılı ve G�
 - [How to think like a Computer Scientist, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html): `Bir Bilgisayar Bilimcisi gibi nasıl düşünülür` isimli kitabın *Interaktif Sürümü*dür.
 - [Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_): *thenewboston* **Youtube** Kanalının yayınladığı `Python 3.4 Programlama Eğitimi` isimli oynatma listesi.
 - [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html): **QuantifiedCode** tarafından yayınlanan *Python*'da `anti-pattern` ve `worst practices` gibi başlıkların irdelendiği bir çevrimiçi kitap.
+- [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017/course/): edX'te MIT'nin Introduction to Computer Science and Programming Using Python dersi
 
 ## Kitap Önerileri
 - **Python (Mustafa Beşer):** Özellikle PyQT konuları için sağlam bir kaynak. Desinger anlatımı mevcut ama az.
